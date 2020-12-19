@@ -4,7 +4,12 @@ public class Person {
     private Integer id;
     private String name;
     private String address;
+    private String gender;
     private Integer age;
+    private String password;
+
+
+
     public Integer getId() {
         return id;
     }
